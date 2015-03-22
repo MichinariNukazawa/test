@@ -5,7 +5,7 @@
 	src: url('../releases/TofuFont_latest.eot?#iefix') format('embedded-opentype'),
 		url('../releases/TofuFont_latest.woff') format('woff'),
 		url('../releases/TofuFont_latest.ttf') format('truetype'),
-		url('../releases/TofuFont_latest.svg#LigatureSymbolFont') format('svg');
+		url('../releases/TofuFont_latest.svg#TofuFont') format('svg');
 	src: url('../releases/TofuFont_latest.ttf') format('truetype');
 	
 	font-weight: normal;

@@ -8,8 +8,8 @@
 		url('../releases/TofuFont_latest.svg#TofuFont') format('svg');
 	src: url('../releases/TofuFont_latest.ttf') format('truetype');
 	
-	font-weight: normal;
-	font-style: normal;
+	font-weight: Regular;
+	font-style: Regular;
 	}
 
 	body {
